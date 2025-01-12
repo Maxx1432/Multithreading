@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Multithreading.iml" filepath="$PROJECT_DIR$/Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicMultithreading/basicMultithreading.iml" filepath="$PROJECT_DIR$/basicMultithreading/basicMultithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/squential/squential.iml" filepath="$PROJECT_DIR$/squential/squential.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadSynchronisation/threadSynchronisation.iml" filepath="$PROJECT_DIR$/threadSynchronisation/threadSynchronisation.iml" />
+    </modules>
+  </component>
+</project>
